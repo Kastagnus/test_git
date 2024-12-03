@@ -9,3 +9,6 @@ def one_more():
 
 def one():
     pass
+
+def new_func():
+    pass
