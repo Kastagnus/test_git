@@ -12,3 +12,6 @@ def one():
 
 def new_func():
     pass
+
+def new_func2():
+    pass
