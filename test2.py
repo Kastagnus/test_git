@@ -15,3 +15,6 @@ def new_func():
 
 def new_func2():
     pass
+
+def new_func3():
+    pass
