@@ -6,3 +6,6 @@ def new_do():
 
 def one_more():
     pass
+
+def one():
+    pass
